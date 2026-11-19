@@ -2,7 +2,8 @@
 
 <img src="https://spotify.vineetkr.me/now-playing" width="600" alt="a terminal typing: whoami returns vineet, backend dev, applied ml, competitive programmer. spotify --now-playing returns the current track. cat status returns Sab badhiya" />
 
-<sub>[site](https://vineetkr.me) · [linkedin](https://www.linkedin.com/in/itsvineetkr) · [instagram](https://www.instagram.com/vineetkumar.ind)</sub>
-![](https://komarev.com/ghpvc/?username=itsvineetkr&label=&color=ffffff&style=social)
+<sub>[site](https://vineetkr.me) · [linkedin](https://www.linkedin.com/in/itsvineetkr) · [instagram](https://www.instagram.com/vineetkumar.ind)</sub>   
+   
+![](https://komarev.com/ghpvc/?username=itsvineetkr&label=&color=000000&style=social)
 
 </div>
